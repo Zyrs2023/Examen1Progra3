@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 using static Examen1Progra3.ClsLibro;
 
 namespace Examen1Progra3
@@ -52,7 +49,7 @@ namespace Examen1Progra3
 
         public void MostrarTodosLosLibros()
         {
-            Console.Clear(); // Limpia la consola antes de mostrar todos los libros.
+            Console.Clear(); 
 
             Console.WriteLine("*************************************************");
             Console.WriteLine("*           Mostrar Todos los Libros             *");
@@ -93,7 +90,7 @@ namespace Examen1Progra3
 
         public void MostrarLibroMayorPrecio()
         {
-            Console.Clear(); // Limpia la consola antes de mostrar el libro de mayor precio.
+            Console.Clear();
 
             Console.WriteLine("*************************************************");
             Console.WriteLine("*           Mostrar Libro de Mayor Precio       *");
@@ -120,7 +117,7 @@ namespace Examen1Progra3
 
         public void MostrarTresLibrosMasBaratos()
         {
-            Console.Clear(); // Limpia la consola antes de mostrar los libros más baratos.
+            Console.Clear(); 
 
             Console.WriteLine("*************************************************");
             Console.WriteLine("*       Mostrar los Tres Libros Más Baratos     *");

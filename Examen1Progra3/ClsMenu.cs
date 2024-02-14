@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 using static Examen1Progra3.ClsLibro;
 
 namespace Examen1Progra3
